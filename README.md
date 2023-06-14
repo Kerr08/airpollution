@@ -20,4 +20,5 @@ wandb login
 ## The basic info
 - Multi-time step prediction of future PM2.5 data using collected historical data.
 - LSTM and Transformer methods are used respectively to compare performance after iterative training and optimization.
+- The training process is implemented on the cloud server, and the training model is not saved locally.
 - Pm25Transformer.py is the code used to train.
